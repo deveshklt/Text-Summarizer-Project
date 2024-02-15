@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Text-Summarizer-Project"
 AUTHOR_USER_NAME = "deveshklt"
-SRC_REPO = "textSummarizer"
+SRC_REPO = "TextSummerizer"
 AUTHOR_EMAIL = "kaluklt1496@gmail.com"
 
 setuptools.setup(
